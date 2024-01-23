@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm rival akmal</h1>
+<h1 align="center">About Me</h1>
 <h3 align="center">Full-Stack Developer Interested in web development and Game development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rivalakmalll&label=Profile%20views&color=0e75b6&style=flat" alt="rivalakmalll" /> </p>
