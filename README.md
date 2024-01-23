@@ -8,4 +8,4 @@
 ![](https://discord.c99.nl/widget/theme-2/391800933480398850.png)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RebillionXX&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rivalakmalll&label=Profile%20Views&icon=9&pretty=true)](https://visitcount.itsvg.in)
