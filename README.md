@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:391800933480398850)
 <h1 align="center">Hi 👋, I'm rival akmal</h1>
 <h3 align="center">Full-Stack Developer Interested in web development and Game development</h3>
 
