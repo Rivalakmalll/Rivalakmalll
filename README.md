@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:391800933480398850)
+[![Discord Presence](https://lanyard.cnrad.dev/api/391800933480398850)](https://discord.com/users/391800933480398850)
 <h1 align="center">Hi 👋, I'm rival akmal</h1>
 <h3 align="center">Full-Stack Developer Interested in web development and Game development</h3>
 
