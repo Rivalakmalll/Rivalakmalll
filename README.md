@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=Rivalakmalll&label=Profile%20Views&color=0&icon=9&pretty=false)](https://visitcount.itsvg.in)
+
 # About Me
 ![](https://github-stats-alpha.vercel.app/api?username=Rivalakmalll&cc=000&tc=fff&ic=fff&bc=000)
 
