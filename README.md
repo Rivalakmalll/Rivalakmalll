@@ -26,6 +26,10 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rivalakmalll&repo=Vue-Websites)](https://github.com/Rivalakmalll/Vue-Websites)
 
 
+<h1>Spotify Playing</h1>
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/rivalakmal10)
+
+
 
 
 ---
