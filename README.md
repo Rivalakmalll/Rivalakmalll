@@ -18,6 +18,12 @@
 ## My Contacts
 ![](https://discord.c99.nl/widget/theme-1/391800933480398850.png)
 
+<h1>Some of my Projects! 🎨</h1>
+<Br>
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rivalakmalll&repo=Happy-Birthday-Card-main)](https://github.com/Rivalakmalll/Happy-Birthday-Card-main)
+
+
 
 ---
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Rivalakmalll&label=Profile%20views&color=0e75b6&style=flat"
