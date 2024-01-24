@@ -6,7 +6,7 @@
 
 ## My Contacts
 ![](https://discord.c99.nl/widget/theme-1/391800933480398850.png)
-[![](https://visitcount.itsvg.in/api?id=Rivalakmalll&label=Profile%20Views&color=0&icon=9&pretty=false)](https://visitcount.itsvg.in)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rivalakmalll&label=Profile%20Views&icon=9&pretty=true)](https://visitcount.itsvg.in)
