@@ -20,4 +20,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rivalakmalll&label=Profile%20Views&icon=9&pretty=true)](https://visitcount.itsvg.in)
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Rivalakmalll&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Rivalakmalll" /> 
+  </p>
