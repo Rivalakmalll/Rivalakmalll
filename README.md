@@ -22,6 +22,9 @@
 <Br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rivalakmalll&repo=Happy-Birthday-Card-main)](https://github.com/Rivalakmalll/Happy-Birthday-Card-main)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rivalakmalll&repo=Music-Player)](https://github.com/Rivalakmalll/Music-Player)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rivalakmalll&repo=Vue-Websites)](https://github.com/Rivalakmalll/Vue-Websites)
+
 
 
 
