@@ -1,22 +1,9 @@
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/391800933480398850)](https://discord.com/users/391800933480398850)
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rivalakmalll&show_icons=true&include_all_commits=true&theme=material-palenight" alt="6K's GitHub Stats" />
+</a>
 
-# About Me
-![](https://github-stats-alpha.vercel.app/api?username=Rivalakmalll&cc=000&tc=fff&ic=fff&bc=000)
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rivalakmalll&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-
-<h1>Some of my Projects! 🎨</h1>
-<Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rivalakmalll&repo=blackarch)](https://github.com/Rivalakmalll/blackarch)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rivalakmalll&repo=Music-Player)](https://github.com/Rivalakmalll/Music-Player)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rivalakmalll&repo=Vue-Websites)](https://github.com/Rivalakmalll/Vue-Websites)
-
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivalakmalll&layout=compact&theme=material-palenight" />
+</a>
