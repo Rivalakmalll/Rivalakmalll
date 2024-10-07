@@ -1,5 +1,5 @@
 <a href="https://discord.com/users/391800933480398850">
-  <img src="https://lanyard-profile-readme.vercel.app/api/391800933480398850" alt="Discord Presence" style="border-radius: 10px; width: 100%; max-width: 400px;" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/391800933480398850" alt="Discord Presence" width="300" />
 </a>
 
 
